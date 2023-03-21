@@ -13,7 +13,7 @@
 //Il prodotto esponga sia un metodo per avere il prezzo base che uno per avere il prezzo comprensivo di iva
 //Il prodotto esponga un metodo per avere il nome esteso, ottenuto concatenando codice + nome
 //Testate poi i vostri oggetti Prodotto, istanziandoli e provando ad interargirci per testare tutti i metodi che avete previsto.
-
+//
 
 using csharp_oop_shop;
 
